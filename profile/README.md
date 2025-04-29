@@ -63,23 +63,6 @@ class NSYSUOpenDevCommunity:
 community = NSYSUOpenDevCommunity()
 ```
 
-<!-- Community Focus -->
-<h2 align="center">🚀 &nbsp;我們的焦點 | Our Focus</h2>
-
-<div align="center">
-  <h3>🔍 選課體驗優化 | Course Selection Experience</h3>
-  <p>我們致力於改善中山大學的選課系統體驗，開發直觀易用的工具，讓同學們能更有效率地規劃課程。</p>
-  
-  <h3>📊 課程資料整合 | Course Data Integration</h3>
-  <p>透過API和爬蟲技術，我們整合並提供結構化的課程資料，讓資訊更加透明、易用。</p>
-  
-  <h3>🤖 AI輔助工具 | AI-assisted Tools</h3>
-  <p>結合人工智慧技術，開發智能選課助手，幫助同學解決選課問題並提供個人化建議。</p>
-  
-  <h3>👩‍💻 開源協作文化 | Open Source Culture</h3>
-  <p>推廣開源協作精神，讓對程式開發有興趣的同學們能共同參與、貢獻和學習。</p>
-</div>
-
 <!-- Technologies -->
 <h2 align="center">💻 &nbsp;技術領域 | Technologies</h2>
 <div align="center">
@@ -137,19 +120,6 @@ community = NSYSUOpenDevCommunity()
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=NSYSU-OpenDev&repo=NSYSUCourseSelectorV6&theme=react" alt="第六代選課UI" />
     </picture>
   </a>
-</div>
-
-<!-- Get Involved -->
-<h2 align="center">🤝 &nbsp;參與我們 | Get Involved</h2>
-<div align="center">
-  <h3>👉 加入開發 | Join Development</h3>
-  <p>我們歡迎所有對改善中山大學選課體驗有興趣的同學加入！無論你的程式能力如何，都可以找到適合你的貢獻方式。</p>
-  
-  <h3>👉 提出建議 | Suggest Improvements</h3>
-  <p>使用我們的工具時有什麼建議或發現問題？請提出issue或直接聯絡我們，你的回饋對我們很重要！</p>
-  
-  <h3>👉 分享使用 | Share & Use</h3>
-  <p>使用並分享我們的選課工具給其他同學，讓更多人受益，也幫助我們獲得更多改進意見。</p>
 </div>
 
 <!-- Contact -->
