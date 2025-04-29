@@ -23,7 +23,7 @@ class NSYSUOpenDevCommunity:
     def __init__(self):
         self.name = "NSYSU OpenDev Community"
         self.chinese_name = "中山大學開源社群"
-        self.founded = "2023"
+        self.founded = "2025"
         self.location = "National Sun Yat-sen University, Kaohsiung, Taiwan"
         
         self.mission = [
