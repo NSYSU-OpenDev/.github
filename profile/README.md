@@ -1,8 +1,8 @@
 <p align='center'>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=NSYSU%20OpenDev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=中山大學開源社群&descAlignY=51&descAlign=62&fontColor=61DAFB">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=006699&height=300&section=header&text=NSYSU%20OpenDev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=中山大學開源社群&descAlignY=51&descAlign=62&fontColor=FFFFFF">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NSYSU%20OpenDev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=中山大學開源社群&descAlignY=51&descAlign=62"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=NSYSU%20OpenDev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=中山大學開源社群&descAlignY=51&descAlign=70&fontColor=61DAFB">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=006699&height=300&section=header&text=NSYSU%20OpenDev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=中山大學開源社群&descAlignY=51&descAlign=70&fontColor=FFFFFF">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=NSYSU%20OpenDev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=中山大學開源社群&descAlignY=70&descAlign=62"/>
   </picture>
 </p>
 
